@@ -40,11 +40,10 @@ A modern, offline-first Android application designed to help small business owne
 
 ## 📸 Screenshots  
 
-- Expense List (Main Screen)  
-- Expense Entry / Edit Screen  
-- 7-Day Report Screen  
-
-*(See the guide on how to add your screenshots [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-images-in-your-repository).)*  
+- ([Main Screen](https://github.com/user-attachments/assets/aa9512fe-b141-4b70-9c61-c03d658528a1))  
+- (https://github.com/user-attachments/assets/135eaea4-8655-465c-8533-bf15ed85d9a7)
+- (https://github.com/user-attachments/assets/846c2026-c781-4c69-aac4-4925e335f0fc)
+ 
 
 ---
 
